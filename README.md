@@ -1,3 +1,11 @@
+# Welcome
+This is my personal portfolio website where I will be showcasing the projects I have worked on and what I am currently working on.
+
+# Purpose
+I am making this application to learn and implement frontend technologies and utilizing AWS services to make a fullstack application.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
